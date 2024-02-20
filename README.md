@@ -18,7 +18,7 @@ Simply lists IP addresses separated by line breaks
 #### Usage
 ```
 location / {
-    include allow-tor_ips.conf
+    include allow-tor_ips.conf;
 }
 ```
 #### allow-tor_ips.conf
