@@ -264,6 +264,7 @@
 2a00:1b88:4::4
 2a00:1dc0:caff:138::94d2
 2a00:1dc0:caff:15::45dc
+2a00:1dc0:caff:178::982b
 2a00:1dc0:caff:73::a568
 2a00:1dc0:caff:78::3b85
 2a00:1dc0:caff:8b::24bd
