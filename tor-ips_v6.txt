@@ -309,6 +309,7 @@
 2a00:1b88:4::4
 2a00:1dc0:caff:12c::4d3a
 2a00:1dc0:caff:138::94d2
+2a00:1dc0:caff:13a::9d2c
 2a00:1dc0:caff:15::45dc
 2a00:1dc0:caff:44::326d
 2a00:1dc0:caff:73::a568
