@@ -296,7 +296,6 @@
 2a00:1b88:4::4
 2a00:1dc0:caff:138::94d2
 2a00:1dc0:caff:73::a568
-2a00:1dc0:caff:8b::24bd
 2a00:1dc0:caff:90::b3de
 2a00:1dc0:caff:f4::bad5
 2a00:74a0:e000:1003::114
@@ -410,8 +409,6 @@
 2a07:e01:3:237::1
 2a07:e03:2a::bcde
 2a07:e03:3:173::1
-2a07:e042:1:181::1
-2a07:e042:1:182::1
 2a07:e05:3:1::1
 2a09:61c0::20
 2a09:61c0::21
@@ -600,6 +597,7 @@
 2a0c:6a41:c13:1337::107
 2a0c:e300:b:b::b
 2a0d:bbc7::f816:3eff:fe0b:181b
+2a0d:bbc7::f816:3eff:fe0b:58d3
 2a0d:bbc7::f816:3eff:fe12:1851
 2a0d:bbc7::f816:3eff:fe18:f410
 2a0d:bbc7::f816:3eff:fe1c:869a
@@ -607,9 +605,11 @@
 2a0d:bbc7::f816:3eff:fe65:992f
 2a0d:bbc7::f816:3eff:fe72:95b6
 2a0d:bbc7::f816:3eff:fe77:3729
+2a0d:bbc7::f816:3eff:fe83:fa45
 2a0d:bbc7::f816:3eff:fe84:8a9e
 2a0d:bbc7::f816:3eff:fec7:9bc8
 2a0d:bbc7::f816:3eff:fee6:ca14
+2a0d:bbc7::f816:3eff:fee9:3e45
 2a0d:bbc7::f816:3eff:feec:9f18
 2a0d:bbc7::f816:3eff:fef2:6521
 2a0d:c2c0:1:4::2
@@ -665,6 +665,7 @@
 2a0f:df00:0:255::204
 2a0f:df00:0:255::205
 2a0f:df00:0:255::206
+2a10:1fc0:9:0:216:3cff:fe73:a62e
 2a10:1fc0:9::313c:1b54
 2a10:1fc0:9::614c:b3dc
 2a10:1fc0:9::d43a:8190
